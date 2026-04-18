@@ -123,7 +123,7 @@ The system simulates real-world climate analytics used by environmental agencies
 
 ### 🌐 Dashboard View
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/dashboard1.png)
 
 ---
 
